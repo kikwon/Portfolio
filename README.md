@@ -5,4 +5,4 @@
 
 ## Project 2: [CUNYBot in StarCraft: Brood War](https://github.com/kikwon/CUNYAIModule)
 
-## Project 3
+## Project 3: [Simpsons Characters Recognition and Caption](https://github.com/kikwon/Simpsons-Characters-Recognition-and-Caption)
