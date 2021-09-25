@@ -1,11 +1,15 @@
 # Kiwook Kwon
 
 ## Data Science
-
+* Project 1
+Testing 1
+* Project 2
+Testing 2
 ## Machine Learning
-
+* Project 1
+* Project 2
 ## Game Theory
-
+* Project 1
 ## Project 1: [Music Genre Classification on the Free Music Archive](https://github.com/kikwon/fma_project)
 
 ## Project 2: [CUNYBot in StarCraft: Brood War](https://github.com/kikwon/CUNYAIModule)
