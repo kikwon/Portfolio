@@ -2,8 +2,10 @@
 
 ## Data Science
 * Project 1
+-------------
 Testing 1
 * Project 2
+
 Testing 2
 ## Machine Learning
 * Project 1
