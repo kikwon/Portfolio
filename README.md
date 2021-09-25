@@ -2,18 +2,16 @@
 
 ## Data Science
 * Project 1
+Testing 1. One Two Three. Time to go Mars.
 
-Testing 1
 * Project 2
+Testing 2. This is overview of Project 2. I used a random forest algorithm. 
 
-Testing 2
 
--------------
 ## Machine Learning
 * Project 1
 * Project 2
 
--------------
 ## Game Theory
 * Project 1
 
