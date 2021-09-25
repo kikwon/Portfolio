@@ -1,5 +1,10 @@
 # Kiwook Kwon
 
+## Data Science
+
+## Machine Learning
+
+## Game Theory
 
 ## Project 1: [Music Genre Classification on the Free Music Archive](https://github.com/kikwon/fma_project)
 
