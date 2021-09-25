@@ -2,9 +2,11 @@
 
 ## Data Science
 * Project 1
+
 Testing 1. One Two Three. Time to go Mars.
 
 * Project 2
+
 Testing 2. This is overview of Project 2. I used a random forest algorithm. 
 
 
